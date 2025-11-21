@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Borui Zhang\*, Bo Zhang\*, Bo Wang\*, Wenzhao Zheng, Yuhao Cheng, Liang Tang, Yiqiang Yan, Jie Zhou, Jiwen Lu$^\dagger$**
+**Borui Zhang\*, Bo Zhang\*, Bo Wang\*, Wenzhao Zheng, Yuhao Cheng, Liang Tang, Yiqiang Yan, Jie Zhou, Jiwen Lu†**
 
 *Department of Automation, Tsinghua University; Lenovo*
 
